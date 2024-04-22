@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "mResource",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -11,8 +11,8 @@
     "light": "#07C983",
     "dark": "#b8460a",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#b8460a",
+      "to": "#b8460a"
     }
   },
   "topbarLinks": [
